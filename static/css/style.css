@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+#username{
+    color: red;
+}
+#password{
+    color: blue;
+}
+.btn{
+    color: rgb(63, 220, 11);
+    background-color: black;
+    border-radius: 10px;
+}
